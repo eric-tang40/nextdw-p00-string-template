@@ -1,13 +1,14 @@
 # Project 00 For NeXT CS
-### Class Period:
-### Name0: YOUR NAME HERE
-### Name1: OTHER NAME HERE (delete this line if you are working solo)
-#### Selected Game: YOUR GAME HERE
+### Class Period: 5
+### Name0: Eric Tang
+### Name1: Kai Chandan
+#### Selected Game: WORDLE
 ---
 
 ### How To Play
 Explain how to play your game. Include any keyboard and/or mouse commands, game objectives, etc.
 
+Just type to start the game. You can only type using
 
 ---
 
